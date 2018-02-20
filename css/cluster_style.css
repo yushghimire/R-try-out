@@ -1,0 +1,13 @@
+
+.clusterShow{
+	position: absolute;
+}
+
+.allItem{
+	overflow:hidden; 
+	overflow-y:scroll;
+	height:150vh;
+	float: right;
+}
+
+

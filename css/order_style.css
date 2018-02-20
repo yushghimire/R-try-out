@@ -1,0 +1,8 @@
+
+.lowInStock{
+	position: absolute;
+	max-height:340px;
+	width:100%;
+	overflow:hidden; 
+	overflow-y:scroll
+}

@@ -1,0 +1,18 @@
+.divCollectionLow{
+	display: none;
+}
+
+.divCollectionAvailable{
+	display: none;
+}
+
+.divCollectionUnavailable{
+	display: none;
+}
+.divCollectionRecentlyAdded{
+	display: none;
+}
+
+.itemStyle{
+	color:red;
+}

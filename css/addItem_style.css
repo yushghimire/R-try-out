@@ -1,0 +1,11 @@
+.itemlistButton{
+	width :400px;
+}
+
+.itemListDropDown{
+	maxheight:50px;
+	overflow: auto;
+}
+
+
+

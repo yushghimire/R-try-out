@@ -1,0 +1,28 @@
+#no{
+	display: none;
+}
+
+.autoAdvContainer{
+	padding: 29px;
+	padding-right: 35px;
+	padding-left: 35px;
+	box-shadow: -1px 6px 16px 0px rgba(0,0,0,0.65);
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+.advScheme{
+	width:100%;
+	resize: none;
+}
+
+.clusterLabel{
+	box-shadow: -4px 6px 16px 0px rgba(0,0,0,0.65);
+	overflow: hidden;
+	overflow-y: hidden;
+	overflow-y: scroll;
+	height: 100vh;
+	float: right;
+	padding: 20px;
+	padding-left: 50px;
+}
